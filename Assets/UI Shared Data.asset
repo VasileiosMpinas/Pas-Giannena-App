@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: c23bfd6bf32c8c345a20fdceb362087f
+  m_Entries:
+  - m_Id: 104534856536064
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110298252152832
+    m_Key: TitleHours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111058767548416
+    m_Key: Sunrise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87762145218560
+    m_Key: start as a user
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88843612950528
+    m_Key: start as a business
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110868362924032
+    m_Key: specificHours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127864535879680
+    m_Key: 'settings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864425187577856
+    m_Key: screenReader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105432508895232
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101430853472256
+    m_Key: previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95152127184896
+    m_Key: plan_help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94246497259520
+    m_Key: plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107697768599552
+    m_Key: pinHelp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839509235044352
+    m_Key: OutOfBounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111064689905664
+    m_Key: Noon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104619971547136
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111845107273728
+    m_Key: Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101491876401152
+    m_Key: next_pickHours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4041010350755840
+    m_Key: next_categories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4113292955848704
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98945933873152
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111061586120704
+    m_Key: morningBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4113072788443136
+    m_Key: mood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106422716960768
+    m_Key: mapHelp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103553330679808
+    m_Key: map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105736910508032
+    m_Key: listHelp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93985762545664
+    m_Key: lets_plan_your_day!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111847078596608
+    m_Key: Late-night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128004554330112
+    m_Key: lang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104991872094208
+    m_Key: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104056722657280
+    m_Key: exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111843203059712
+    m_Key: Evening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4039222562230272
+    m_Key: coffeeBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112217135353856
+    m_Key: closeHelpPanel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98852463808512
+    m_Key: children
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99752624361472
+    m_Key: checkboxes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95244276043776
+    m_Key: browse_help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94295281209344
+    m_Key: browse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103677184282624
+    m_Key: avail_places
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99456347115520
+    m_Key: autosave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4112359643516928
+    m_Key: atleastOneHour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110600984432640
+    m_Key: allDayTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110761995374592
+    m_Key: allDayButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111072877187072
+    m_Key: Afternoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114477410521088
+    m_Key: BrunchBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114777110319104
+    m_Key: GamesBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115003334299648
+    m_Key: NatureBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115071290413056
+    m_Key: FastFoodBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115164454293504
+    m_Key: EducationBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115473868099584
+    m_Key: BarsBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115480394436608
+    m_Key: CasualDiningBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115744694308864
+    m_Key: ShoppingBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115826198024192
+    m_Key: FineDiningBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115934335569920
+    m_Key: NightlifeBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116076866408448
+    m_Key: Movies&TheaterBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116242868572160
+    m_Key: SportsBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116342986608640
+    m_Key: makePlanBut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116619902947328
+    m_Key: helpForCategories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117066814427136
+    m_Key: closeHelpButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117354124251136
+    m_Key: For Children
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117635285225472
+    m_Key: Accessible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121159431720960
+    m_Key: FinalHelp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121404924334080
+    m_Key: FinalHelp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121651759124480
+    m_Key: Help3Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121989551591424
+    m_Key: Subhelp0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122097152266240
+    m_Key: Subhelp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122205155594240
+    m_Key: Subhelp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122440011452416
+    m_Key: help4A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122542939672576
+    m_Key: help4B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122665958608896
+    m_Key: help5A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122707960369152
+    m_Key: help5B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710359511040
+    m_Key: help5C
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4123215261437952
+    m_Key: help6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4402366165913600
+    m_Key: 'shortcut
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4413318944886784
+    m_Key: retToStart
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7684128563481018392
+  references:
+    version: 2
+    RefIds:
+    - rid: 7684128563481018392
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1683720090666

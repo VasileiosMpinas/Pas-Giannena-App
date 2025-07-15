@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c23bfd6bf32c8c345a20fdceb362087f, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7684128617431826435
+  m_TableData:
+  - m_Id: 7927074816
+    m_Localized: "The \"Pas Giannena: Day Architect\" project was made for the course
+      \"\u039C\u03A5\u0395001: Human - Computer Interaction\" of the CSE department,
+      at University of Ioannina. \n\nThe project was a group effort by:\nDedousi
+      Lemonia, 4348\n\u0392inas Basilis, 4434\r\n\u0392intzilaiou Nikoletta, 4435\nTaflampas
+      Nikolaos, 4500\n\nWe hope you enjoy. \nThank you!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1777789145088
+    m_Localized: 'About this interactive project:'
+    m_Metadata:
+      m_Items:
+      - rid: 7684128617431826435
+  - m_Id: 87762145218560
+    m_Localized: Start as a User
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88843612950528
+    m_Localized: Start as a Business Manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93985762545664
+    m_Localized: Let's plan your day!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94246497259520
+    m_Localized: Plan your day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94295281209344
+    m_Localized: Browse options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95152127184896
+    m_Localized: Make a plan by selecting your personal preferences.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95244276043776
+    m_Localized: Browse all possible options for your outing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98852463808512
+    m_Localized: 'I want to be recommended child-friendly places :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98945933873152
+    m_Localized: 'I want to be recommended accessible places :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99456347115520
+    m_Localized: Your choices will be saved automatically when you move to the next
+      page.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99752624361472
+    m_Localized: 'Step 1/3: In case you have children or have some kind of disability,
+      check the boxes that apply to you.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101491876401152
+    m_Localized: pick hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101430853472256
+    m_Localized: previous page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103553330679808
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103677184282624
+    m_Localized: 'All available places:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104056722657280
+    m_Localized: Are you sure you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104534856536064
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104619971547136
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104991872094208
+    m_Localized: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105432508895232
+    m_Localized: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105736910508032
+    m_Localized: Scroll through the list of all available places to visit by using
+      the scroll bars or clicking and dragging with your mouse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106422716960768
+    m_Localized: 'Explore the map by using the scroll bars, clicking and dragging
+      with your mouse or zooming in/out with your mouse wheel. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107697768599552
+    m_Localized: Click on a pin to see information about a specific place of interest.
+      Click it again for the information to disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112217135353856
+    m_Localized: Close help panel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127864535879680
+    m_Localized: Settings/More
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128004554330112
+    m_Localized: 'Select a language:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839509235044352
+    m_Localized: Some places are too far from the city center shown in the map. Click
+      on the arrow to learn more information about them. Click it again for the information
+      to disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864084551372800
+    m_Localized: 'Accessibility features:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 864425187577856
+    m_Localized: Enable Screen Reader (only in english)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 866785888669696
+    m_Localized: More / About the team
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4039222562230272
+    m_Localized: Coffee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4041010350755840
+    m_Localized: pick tags
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110298252152832
+    m_Localized: 'Step 2/3: Set Your Plan In Motion.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110600984432640
+    m_Localized: Pick if you want an all day plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110761995374592
+    m_Localized: All DAY PLAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4110868362924032
+    m_Localized: Pick specific hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111058767548416
+    m_Localized: Sunrise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111061586120704
+    m_Localized: Morning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111064689905664
+    m_Localized: Noon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111072877187072
+    m_Localized: Afternoon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111843203059712
+    m_Localized: Evening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111845107273728
+    m_Localized: Night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4111847078596608
+    m_Localized: Late-night
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4112359643516928
+    m_Localized: Pick at least one.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4113292955848704
+    m_Localized: next page
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4113072788443136
+    m_Localized: "Step 3/3: What are you in the mood for?\n Select the categories
+      you are interested in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114477410521088
+    m_Localized: Brunch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114777110319104
+    m_Localized: Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115003334299648
+    m_Localized: Nature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115071290413056
+    m_Localized: Fast Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115164454293504
+    m_Localized: Education
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115473868099584
+    m_Localized: Bar&Pubs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115480394436608
+    m_Localized: Casual Dining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115744694308864
+    m_Localized: Shopping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115826198024192
+    m_Localized: Fine Dining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115934335569920
+    m_Localized: Nightlife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116076866408448
+    m_Localized: Movies&Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116242868572160
+    m_Localized: Sports
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116342986608640
+    m_Localized: Make Plan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4116619902947328
+    m_Localized: "Select the tags of the places you are interested in! \nExample:
+      by selecting Education, museums will be recommended."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117066814427136
+    m_Localized: Close Help Panel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117354124251136
+    m_Localized: For Children
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4117635285225472
+    m_Localized: Accessible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121159431720960
+    m_Localized: This is the the plan Menu. Here you can view and change the plan
+      we have created for you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121404924334080
+    m_Localized: Here, you can choose which hour of the day you want to view. The
+      selected hour will be colored blue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121651759124480
+    m_Localized: Right here you can see the currently suggested business for this
+      hour of your plan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4121989551591424
+    m_Localized: The name of the business
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122097152266240
+    m_Localized: The address of the business
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122205155594240
+    m_Localized: The star rating, price range and opening hours
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122440011452416
+    m_Localized: Whether the business if friendly for children
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122542939672576
+    m_Localized: ..or accessible for people with special needs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122665958608896
+    m_Localized: If you don't like this recommendation, you can view other options
+      by clicking the arrows
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122707960369152
+    m_Localized: Click to view the previous recommendation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4122710359511040
+    m_Localized: Or the next!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4123215261437952
+    m_Localized: If you like the selected recommendation, make sure to lock it by
+      clicking the Lock symbol, so that you don't change it by accident!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4402366165913600
+    m_Localized: Shortcut to your Previous Recommendations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4413318944886784
+    m_Localized: Return to Start
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7684128617431826435
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00907dec9d010000
