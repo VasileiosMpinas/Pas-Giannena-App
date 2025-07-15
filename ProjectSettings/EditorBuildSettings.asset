@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Screen1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Screen2User.unity
+    guid: 0636efe93ba49734dbbd0ec98f863f8c
+  - enabled: 1
+    path: Assets/Scenes/Screen4Checkbox.unity
+    guid: 578fbfd3798a65342a0e317ce9d6c3a5
+  - enabled: 1
+    path: Assets/Scenes/pickHours.unity
+    guid: 04e34fcdcd9745b409b6a9a6898b5548
+  - enabled: 1
+    path: Assets/Scenes/categoryScene.unity
+    guid: 1cec3a5d4b89f7d4c89c67f0b29c03eb
+  - enabled: 1
+    path: Assets/Scenes/ProgramScene.unity
+    guid: 718c3ec4de8272c47a462cefeea5a0c0
+  - enabled: 1
+    path: Assets/Scenes/ScreenBrowse.unity
+    guid: 508d75f28b4c72f4a96b46f61c188740
+  - enabled: 1
+    path: Assets/Scenes/Scene6AddBusiness.unity
+    guid: 5f41c2db70d329f4f9a6905bf96b010a
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ea1c139babbb25d42862b943361f9e56, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: ca1bbea7cbc5d2d4385a28cd956e05e3, type: 2}
